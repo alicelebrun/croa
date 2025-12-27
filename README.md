@@ -6,3 +6,10 @@ Les contraintes de programmation étaient les suivantes:
   * Un délai de 5 semaines pour produire le logiciel
 
 Voir http://jeuxstrategieter.free.fr/Croa_complet.php pour la description et les règles du jeu.
+
+Le plateau initial se présente ainsi pour 4 joueurs:
+
+<img width="1030" height="1109" alt="image" src="https://github.com/user-attachments/assets/460d00c1-6837-4f11-8f99-5952fb04df48" />
+
+et après quelques coups, dont un coup fatal au joueur 4:
+<img width="1030" height="1109" alt="image" src="https://github.com/user-attachments/assets/01742bed-7503-4e73-8122-323fe253b78d" />
